@@ -1,5 +1,4 @@
 # KIET-CAFET:
-
 • Developed a Website named "KIET CAFET"
 which enables the user to order, manage,
 schedule and pay at Institute’s cafeteria and
